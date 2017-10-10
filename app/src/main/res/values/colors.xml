@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#3d3d3d</color>
+    <color name="colorAccent">#0093D1</color>-->
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#57a2ff</color>
+    <color name="colorAccent">#0093D1</color>
+    <!-- 暗宝石绿 -->
+    <color name="umeng_white">#ffffff</color>
+    <color name="fen">#ffe7ea</color>
+    <color name="umeng_blue">#0086DC</color>
+
+    <color name="umeng_black">#000000</color>
+
+    <color name="umeng_background">#D4E0E5</color>
+
+    <color name="umeng_text_color">#575A5C</color>
+
+    <color name="umeng_divide">#C3C6C9</color>
+
+    <color name="middleblue">#5f9cf9</color>
+    <!-- 主题颜色 -->
+    <!--    <color name="themecolor">#0093D1</color>-->
+    <color name="themecolor">#57a2ff</color>
+    ======================================================================
+    <color name="tab_background_color">#efeff4</color>
+    <color name="tab_cart_color">#add2ff</color>
+
+    <color name="tab_title_color">#0093D1</color>
+    <color name="main_title_color">#333333</color>
+    <color name="subtitle_color">#999999</color>
+
+    <color name="white">#ffffff</color>
+    <color name="white_half">#9fffffff</color>
+    <color name="action_bar_white">#dfeeeeee</color>
+    <color name="statusbar">#666666</color>
+
+    <color name="partTranslucent">#39000000</color>
+
+    <color name="tab_text_color">#999999</color>
+
+    <color name="text_black">#333333</color>
+    <color name="black">#000000</color>
+    <color name="name_color">#535353</color>
+    <color name="content_color">#989898</color>
+    <color name="transblack">#7f000000</color>
+    <color name="trans10black">#10000000</color>
+    <color name="trans20black">#20000000</color>
+    <color name="trans50black">#50000000</color>
+    <color name="transtatusblack">#bfbfbf</color>
+    <color name="blue">#0000FF</color>
+    <color name="transparent">#00000000</color>
+    <color name="green">#9cdd00</color>
+    <color name="green_">#35d35c</color>
+    <color name="theme_bg">#eeeeee</color>
+    <color name="home_txt">#cbcbcb</color>
+    <color name="tubiao">#ffefd2</color>
+    <!-- 深天蓝色 -->
+    <color name="deepskyblue">#00BFFF</color>
+    <color name="red">#ff0000</color>
+    <color name="text_red">#fa4535</color>
+    <color name="gainsboro">#dcdcdc</color>
+    <color name="darkslategrey">#2f4f4f</color>
+    <color name="slategray">#708090</color>
+    <color name="lightgray">#d3d3d3</color>
+    <!-- 透明灰 -->
+    <color name="translightgray">#50d3d3d3</color>
+    <color name="translightgray_">#fcd3d3d3</color>
+    <!-- 深度透明灰 -->
+    <color name="translightgray_deep">#30d3d3d3</color>
+    <!-- 深灰 -->
+    <color name="dark_gray">#888888</color>
+    <!-- 浅灰 -->
+    <color name="light_gray">#c4c4c4</color>
+
+    <color name="gray_edittext">#bbbbbb</color>
+
+
+    <!-- 圆圈背景 -->
+    <color name="circle_gray">#b2d5d5d5</color>
+    <!-- 蛋白质色 -->
+    <color name="circle_pro">#b2d2d2d2</color>
+    <!-- 脂肪色 -->
+    <color name="circle_fat">#b2f59e38</color>
+    <!-- 维生素色 -->
+    <color name="circle_vat">#b256c312</color>
+    <!-- 矿物质色 -->
+    <color name="circle_min">#b27f7f7f</color>
+    <!-- 糖类色 -->
+    <color name="circle_sur">#b2ec7146</color>
+    <!-- 象牙白 -->
+    <color name="ivory">#ffffe0</color>
+    <color name="lanse">#57a2ff</color>
+    <color name="qainlanse">#add2ff</color>
+    <!-- start zxing -->
+    <color name="viewfinder_frame">#404040</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="result_view">#b0000000</color>
+    <!-- end zxing -->
+    <color name="actionbar_background_start">#4d4b4a</color>
+    <color name="actionbar_background_end">#42403f</color>
+    <!-- 灰色 -->
+    <color name="gray">#808080</color>
+    <color name="gray_half">#7f808080</color>
+
+    <color name="themetranscolor">#d00bbf3e</color>
+    <color name="themetranscolor_">#500bbf3e</color>
+    <color name="themetranscolor_t">#600bbf3e</color>
+
+    <!-- 冰箱主色调开始 -->
+    <color name="iceline1">#99ce33</color>
+    <color name="iceline2">#33cc33</color>
+    <color name="iceline3">#e47133</color>
+    <color name="iceline4">#e48833</color>
+    <color name="iceline5">#a0a0a0</color>
+    <!-- 冰箱主色调结束 -->
+
+
+    <!-- 健康轴背景色 -->
+    <color name="hpb_bg">#eee9d7</color>
+    <color name="holo_orange_light">#ffffbb33</color>
+    <color name="holo_green_light">#ff99cc00</color>
+    <!-- 食物详情强调字体颜色 -->
+    <color name="food_foucs_color">#91ad03</color>
+
+    <!-- 主题颜色 -->
+    <color name="primary">#14bf5f</color>
+    <!-- 状态栏颜色 -->
+    <color name="primary_dark">#a87e5d</color>
+
+    <!-- 提示颜色 -->
+    <color name="notice_yel">#c4ed17</color>
+    <color name="divider_color">#c4c4c4</color>
+    <color name="yellow_adviser">#f7b400</color>
+
+
+</resources>
