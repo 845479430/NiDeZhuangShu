@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity implements NewCalendar.NewCa
         Month=new SimpleDateFormat("MMM");
         Day=new SimpleDateFormat("dd");
     }
-
+//kjbkjbjhb
     @Override
     public void onItemPress(Date day) {
         String subMonth=Month.format(day).substring(0,Month.format(day).length()-1);
